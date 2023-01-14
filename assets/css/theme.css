@@ -8249,9 +8249,6 @@ body.tt-sliding-sidebar-open .tt-sliding-sidebar-close {
 }
 
 @media (min-width: 769px) {
-	body.tt-sliding-sidebar-left-on #content-wrap {
-		padding-left: 40px;
-	}
 	body.tt-sliding-sidebar-right-on #content-wrap {
 		padding-right: 40px;
 	}
